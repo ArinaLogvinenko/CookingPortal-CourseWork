@@ -1,0 +1,51 @@
+﻿@using Application.DTO;
+
+@model RegisterUserDTO
+@{
+    ViewBag.Title = "Register";
+}
+
+
+<div class="row justify-content-md-center">
+    <form asp-action="Register" method="post" id="register-form" class="col-4">
+        <h2 class="row justify-content-md-center">Register</h2>
+
+        <div class="form-group">
+            <label asp-for="FullName" class="control-label"></label>    
+            <input asp-for="FullName" class="form-control" />
+            @if (Model != null)
+            {
+                <span asp-for="" class="text-danger">@Model.FullNameError</span>
+            }
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            @if (Model != null)
+            {
+                <span asp-for="" class="text-danger">@Model.EmailError</span>
+            }
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="form-control" type="password" />
+            @if (Model != null)
+            {
+                <span asp-for="" class="text-danger">@Model.PasswordError</span>
+            }
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" class="form-control" type="password" />
+            @if (Model != null)
+            {
+                <span asp-for="" class="text-danger">@Model.ConfirmPasswordError</span>
+            }
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary mt-2" />
+        </div>
+    </form>
+</div>
+
+    

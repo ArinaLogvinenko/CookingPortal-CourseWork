@@ -1,0 +1,32 @@
+﻿@using Application.DTO;
+
+@model IEnumerable<RecipeDTO>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="row justify-content-md-center mb-4">Recipes</h2>
+
+<ul class="recipes">
+    @foreach (var recipe in Model)
+    {
+        <div class="recipe">        
+            <div class="card recipe_content mb-5" style="width: 18rem;">
+                <img src="@recipe.Image" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title link-primary">@Html.ActionLink(recipe.Name, "Index", "RecipeDetails", new { recipeId = recipe.Id })</h5>
+                    <p class="card-subtitle mb-2 text-muted">@recipe.Description</p>
+                    <h6 class="card-subtitle">Ingredients:</h6>
+                    <p class="card-text">@recipe.Ingredients</p>
+                    <h6 class="card-subtitle">Serving time:</h6>
+                    <p class="card-text">@recipe.ServingTime</p>
+                    <h6 class="card-subtitle">Nutrition facts:</h6>
+                    <p class="card-text">@recipe.NutritionFacts</p>
+                    <h6 class="card-subtitle">Author:</h6>
+                    <a href="@Url.Action("UserProfile", "User", new { userId = recipe.Author.Id })" class="link-primary">@recipe.Author.FullName</a>
+                </div>
+            </div>
+    </div>
+    }
+</ul>
+

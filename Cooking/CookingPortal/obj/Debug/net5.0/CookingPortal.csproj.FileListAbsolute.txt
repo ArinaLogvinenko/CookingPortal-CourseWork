@@ -1,0 +1,1353 @@
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.xml
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.StaticWebAssets.xml
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.AssemblyReference.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\refint\CookingPortal.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ref\CookingPortal.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.xml
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\appsettings.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Application.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Domain.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.xml
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\RecipeDetails\Index.cshtml.g.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\SavedRecipes.cshtml.g.cs
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\appsettings.json
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.StaticWebAssets.xml
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Application.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Domain.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Application.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Domain.pdb
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.AssemblyReference.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\RecipeDetails\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\SavedRecipes.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\refint\CookingPortal.dll
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\OwnRecipes.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Add.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Edit.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\FollowingAuthors.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_LayoutSignalR.cshtml.g.cs
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\libman.json
+E:\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Chat.cshtml.g.cs
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Abp.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Abp.AspNetCore.SignalR.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Core.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Windsor.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.Collections.Deque.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.Disposables.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\CourseArina\CookingPortal\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\appsettings.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\libman.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Abp.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Abp.AspNetCore.SignalR.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Core.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Castle.Windsor.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Nito.Disposables.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Application.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Domain.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Application.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Domain.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.xml
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Chat.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\RecipeDetails\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Add.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Edit.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\OwnRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\SavedRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_LayoutSignalR.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\FollowingAuthors.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\CourseArina\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\libman.json
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Abp.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Abp.AspNetCore.SignalR.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Castle.Core.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Castle.Windsor.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\Nito.Disposables.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Chat.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\RecipeDetails\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Add.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Edit.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\OwnRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\SavedRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_LayoutSignalR.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\FollowingAuthors.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\Study\3 year\Курсач\CookingPortal\CookingPortal\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\appsettings.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\libman.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.exe
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.deps.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.runtimeconfig.dev.json
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Abp.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Abp.AspNetCore.SignalR.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\AutoMapper.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Castle.Core.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Castle.Windsor.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\FluentValidation.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Humanizer.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Nito.Collections.Deque.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Nito.Disposables.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\TimeZoneConverter.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Application.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Domain.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Infrastructure.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Application.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Domain.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\bin\Debug\net5.0\Infrastructure.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.AssemblyInfo.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorAssemblyInfo.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.Manifest.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\staticwebassets\CookingPortal.StaticWebAssets.xml
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\scopedcss\bundle\CookingPortal.styles.css
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.input.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.TagHelpers.output.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorCoreGenerate.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Chat.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\RecipeDetails\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Add.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Edit.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\FollowingRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\OwnRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Recipe\SavedRecipes.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_LayoutSignalR.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\FollowingAuthors.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cache
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.RazorTargetAssemblyInfo.cs
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.Views.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.csproj.CopyComplete
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\ref\CookingPortal.dll
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.pdb
+D:\Study\3 year\Курсач\Cooking\CookingPortal\obj\Debug\net5.0\CookingPortal.genruntimeconfig.cache

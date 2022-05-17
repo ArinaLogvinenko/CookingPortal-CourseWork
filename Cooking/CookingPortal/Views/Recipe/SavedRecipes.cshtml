@@ -1,0 +1,73 @@
+﻿@using Application.DTO;
+
+@model List<RecipeDTO>
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="recipes">
+    @foreach(var recipe in @Model)
+    {
+        <div class="recipe">
+            <div class="card recipe_content mb-5" style="width: 18rem;">
+                <img src="@recipe.Image" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title link-primary">@Html.ActionLink(recipe.Name, "Index", "RecipeDetails", new { recipeId = recipe.Id })</h5>
+                    <p class="card-subtitle mb-2 text-muted">@recipe.Description</p>
+                    <h6 class="card-subtitle">Ingredients:</h6>
+                    <p class="card-text">@recipe.Ingredients</p>
+                    <h6 class="card-subtitle">Serving time:</h6>
+                    <p class="card-text">@recipe.ServingTime</p>
+                    <h6 class="card-subtitle">Nutrition facts:</h6>
+                    <p class="card-text">@recipe.NutritionFacts</p>
+                    <h6 class="card-subtitle">Author:</h6>
+                    <a href="@Url.Action("UserProfile", "User", new { userId = recipe.Author.Id })" class="link-primary">@recipe.Author.FullName</a>
+                </div>
+            </div>
+
+            <!--@Html.ActionLink(recipe.Name, "Index", "RecipeDetails", new { recipeId = recipe.Id })-->
+            @*<h4>@recipe.Name</h4>*@
+            <!--<div class="recipe_content">
+                <img src="@recipe.Image" />
+                <div class="description_recipe">
+                    <span class="description">@recipe.Description</span>
+                </div>
+                <div class="ingredients_recipe">
+                    <span class="ingredients">Ingredients: @recipe.Ingredients</span>
+                </div>
+                <div class="serving_time_recipe">
+                    <span class="serving_time">Serving time: @recipe.ServingTime</span>
+                </div>
+                <div class="nutrition_recipe">
+                    <span class="nutrition">Nutrition facts: @recipe.NutritionFacts</span>
+                </div>
+                <div class="author_recipe">
+                    <a href="@Url.Action("UserProfile", "User", new { userId = recipe.Author.Id })">
+                        Author: @recipe.Author.FullName
+                    </a>
+                </div>
+
+                @if (recipe.Comments is not null)
+                {
+                    @foreach (var comment in recipe.Comments)
+                    {
+                        <div class="author_recipe py-3">
+                            <span class="author">Author: @comment.Author.FullName. Message: @comment.Comment</span>
+                        </div>
+                        <div class="author_recipe py-3">
+
+                        </div>
+                    }
+                }
+            </div>-->
+        </div>
+    }
+    
+</ul>
+
+<script>
+    window.onload = (e) => {
+
+    };
+</script>
+

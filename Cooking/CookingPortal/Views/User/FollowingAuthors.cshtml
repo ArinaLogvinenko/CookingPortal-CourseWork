@@ -1,0 +1,35 @@
+﻿@using Application.DTO;
+
+@model List<UserDTO>
+@{
+    ViewBag.Title = "Profile";
+}
+
+<h2 class="row justify-content-md-center mb-4">Following authors</h2>
+
+<ul class="authors">
+    @foreach (var user in Model)
+    {
+        <div class="author">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top cook" src="@user.Image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title link-primary">@Html.ActionLink(user.FullName, "UserProfile", "User", new { userId = user.Id })</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@user.Status</h6>
+                    <ul class="navbar">
+                        <li class="nav-item text-body-small">
+                            <span class="link-without-visited-state">
+                                <span class="t-bold">@user.Follower</span> followers
+                            </span>
+                        </li>
+                        <li class="nav-item text-body-small">
+                            <span class="link-without-visited-state">
+                                <span class="t-bold">@user.Following</span> following
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+</ul>

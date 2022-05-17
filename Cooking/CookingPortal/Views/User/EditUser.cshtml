@@ -1,0 +1,58 @@
+﻿@using Application.DTO;
+
+@model EditUserDTO
+@{
+    ViewBag.Title = "EditUser";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row justify-content-md-center">
+        @Html.ValidationSummary(true, "")
+        <form asp-action="EditUser" method="post" id="edit-form">
+            <div class="col-4">
+                <h2 class="row justify-content-md-center">Edit profile</h2>
+
+                <div class="form-group">
+                    <label for="name">FullName:</label>
+                    <input asp-for="FullName" type="text" class="form-control" id="name">
+                    @if (Model != null)
+                    {
+                        <span asp-for="" class="text-danger">@Model.FullNameError</span>
+                    }
+                </div>
+                <div class="form-group">
+                    <label for="status">Status:</label>
+                    <input asp-for="Status" type="text" class="form-control" id="status">
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input asp-for="Password" type="password" class="form-control" id="password">
+                    @if (Model != null)
+                    {
+                        <span asp-for="" class="text-danger">@Model.PasswordError</span>
+                    }
+                </div>
+                <div class="form-group">
+                    <label for="conf-password">Confirm password:</label>
+                    <input asp-for="ConfirmPassword" type="password" class="form-control" id="conf-password">
+                    @if (Model != null)
+                    {
+                        <span asp-for="" class="text-danger">@Model.ConfirmPasswordError</span>
+                    }
+                </div>
+                <div class="custom-file">
+                    <label for="image">Image:</label>
+                    <input asp-for="Image" type="file" id="image">
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Submit" class="btn btn-primary mt-3" />
+                </div>
+            </div>
+        </form>
+    </div>
+}

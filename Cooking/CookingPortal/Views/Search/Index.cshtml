@@ -1,0 +1,20 @@
+﻿@using Application.DTO;
+
+@model IEnumerable<UserRecipeDTO>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Searching recipes</h2>
+
+<div class="search-recipes">
+    @foreach (var recipe in Model)
+    {
+        <div>
+            <span>Title</span>
+        </div>
+        <div>
+            <span>@recipe.Name</span>
+        </div>
+    }
+</div>

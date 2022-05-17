@@ -1,0 +1,36 @@
+﻿@using Application.DTO;
+@model AddRecipeDto;
+
+<div class="row justify-content-md-center">
+    <form asp-action="Edit" method="post" id="add-form" class="col-4" style="height: 41rem;">
+        <h2 class="row justify-content-md-center">Edit recipe</h2>
+
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Description" class="control-label"></label>
+            <input asp-for="Description" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Ingredients" class="control-label"></label>
+            <input asp-for="Ingredients" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="ServingTime" class="control-label"></label>
+            <input asp-for="ServingTime" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="NutritionFacts" class="control-label"></label>
+            <input asp-for="NutritionFacts" class="form-control" />
+        </div>
+        <div class="custom-file">
+            <label for="image">Image:</label>
+            <input asp-for="Image" type="file" id="image">
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary mt-2" />
+        </div>
+    </form>
+</div>

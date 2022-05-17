@@ -1,0 +1,65 @@
+D:\Study\3 year\Курсач\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Study\3 year\Курсач\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aayac\OneDrive\Рабочий стол\CookingPortal\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\nlva\CookingPortal\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Study\3 year\Курсач\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\CourseArina\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\CourseArina\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\Cooking\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Study\3 year\Курсач\Cooking\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\Cooking\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Study\3 year\Курсач\Cooking\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
